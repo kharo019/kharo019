@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://kharo019dev.vercel.app](https://kharo019dev.vercel.app)
 
-- 💬 Ask me about **Python, Java, C/C++**
-
 - 📫 How to reach me **kevinharo019@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1Cxj9QgAqEFvVgV4VpmxKYYBh_LEddoEk2WSxIZlxShk/edit?usp=sharing](https://docs.google.com/document/d/1Cxj9QgAqEFvVgV4VpmxKYYBh_LEddoEk2WSxIZlxShk/edit?usp=sharing)
