@@ -1,5 +1,8 @@
 <img align = "middle" alt = "Coding" width = "400" src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif ">
 
+
+<div style="width:100%;height:0;padding-bottom:43%;position:relative;"><iframe src="https://giphy.com/embed/xTiIzJSKB4l7xTouE8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/starwars-star-wars-episode-3-xTiIzJSKB4l7xTouE8">via GIPHY</a></p>
+
 <h1 align="center">Hello There 👋, I'm Kevin Haro</h1>
 <h3 align="center">A passionate developer from El Paso, Texas</h3>
 
